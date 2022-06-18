@@ -7,3 +7,8 @@ print(dataset)
 for i in dataset:
     print(i)
 
+print(i)
+
+a = 234
+a = a * 2
+print(a)
