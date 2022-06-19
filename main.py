@@ -1,7 +1,7 @@
 import numpy as np
 
 
-dataset = np.arange(234, 234234, 34)
+dataset = np.arange(234, 2234, 34)
 print(dataset)
 
 for i in dataset:
